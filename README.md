@@ -10,7 +10,7 @@
  ╚═════╝╚═╝         ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 ```
 
-### `> Competitive Programmer · CTF Player · Low-Level Hacker`
+### `> Competitive Programmer · CTF Player · Low-Level Enthusiast`
 
 *I live in the terminal. I speak to machines in their own language.*  
 *I break things to understand them — and build things others can't break.*
