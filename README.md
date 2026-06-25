@@ -17,10 +17,10 @@
 
 <br/>
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![picoCTF](https://img.shields.io/badge/picoCTF-008000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://picoctf.org/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Wait_is_this_FFT)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arrowlight)
+[![picoCTF](https://img.shields.io/badge/picoCTF-008000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://learn.cylabacademy.org/users/coreDumped79)
+[![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Fulcrum69)
 
 </div>
 
@@ -137,15 +137,14 @@ process(elf.path).sendline(payload)  # 🐚
 
 ## `$ cat github_stats.txt`
 
-<!-- Replace YOUR_USERNAME with your actual GitHub username -->
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=aaaaaa)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasdbox&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=aaaaaa)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=aaaaaa)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasdbox&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=aaaaaa)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
+![GitHub Streak](https://streak-stats.demolab.com?user=nasdbox&theme=dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
 
 </div>
 
