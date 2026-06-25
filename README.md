@@ -66,7 +66,7 @@ profile = {
 [~] picoCTF                 — Active               (Pwn · Rev · Forensics · Crypto)
 ```
 
-**Exploit toolkit:**
+<!-- **Exploit toolkit:**
 
 ```python
 #!/usr/bin/env python3
@@ -85,7 +85,7 @@ payload = flat(
     libc.sym['system']
 )
 process(elf.path).sendline(payload)  # 🐚
-```
+``` -->
 
 ---
 
