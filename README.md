@@ -22,6 +22,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arrowlight)
 [![picoCTF](https://img.shields.io/badge/picoCTF-008000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://learn.cylabacademy.org/users/coreDumped79)
 [![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Fulcrum69)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-323437?style=for-the-badge&logo=monkeytype&logoColor=e2b714)](https://monkeytype.com/profile/arrowlight)
 
 </div>
 
@@ -31,7 +32,7 @@
 
 ```python
 profile = {
-    "focus"     : ["Competitive Programming", "Binary Exploitation", "Forensics", "Reverse Engineering", "Low-Level Systems"],
+    "focus"     : ["Competitive Programming", "Binary Exploitation", "Reverse Engineering", "Low-Level Systems"],
     "ctf"       : ["OverTheWire Bandit ✓", "OverTheWire Narnia ✓", "picoCTF (active)"],
     "platforms" : ["Codeforces", "AtCoder", "SPOJ", "CSES", "LeetCode"],
     "currently" : "grinding CTFs and climbing CP ratings simultaneously",
