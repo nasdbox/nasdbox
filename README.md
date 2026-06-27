@@ -153,7 +153,7 @@ process(elf.path).sendline(payload)  # 🐚
 
 ---
 
-![](https://komarev.com/ghpvc/?username=<nasdbox>
+![](https://komarev.com/ghpvc/?username=nasdbox)
 
 <div align="center">
 
