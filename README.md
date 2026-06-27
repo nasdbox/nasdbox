@@ -25,6 +25,7 @@
 [![CSES](https://img.shields.io/badge/CSES-Problem%20Set-0A7E07?style=for-the-badge)](https://cses.fi/user/340758)
 [![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Fulcrum69)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-323437?style=for-the-badge&logo=monkeytype&logoColor=e2b714)](https://monkeytype.com/profile/arrowlight)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png)](https://tryhackme.com/p/elliotfsociety632)
 
 </div>
 
