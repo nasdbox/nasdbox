@@ -16,6 +16,7 @@
 *I live in the terminal. I speak to machines in their own language.*  
 *I break things to understand them — and build things others can't break.*
 
+![](https://komarev.com/ghpvc/?username=nasdbox)
 <br/>
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Wait_is_this_FFT)
@@ -153,7 +154,7 @@ process(elf.path).sendline(payload)  # 🐚
 
 ---
 
-![](https://komarev.com/ghpvc/?username=nasdbox)
+
 
 <div align="center">
 
